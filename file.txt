@@ -1,0 +1,11 @@
+router
+modem
+netstat
+ifconfig
+jukebox
+base
+stone
+mid
+udmey
+
+
